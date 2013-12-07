@@ -1,0 +1,23 @@
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\bin\Debug\TSOEmu True Part 2.exe
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\bin\Debug\TSOEmu True Part 2.pdb
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\bin\Debug\TSOEmu True Part 2.xml
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\TSOEmu_True_Part_2.Form1.resources
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\TSOEmu_True_Part_2.Resources.resources
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\TSOEmu True Part 2.exe
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\TSOEmu True Part 2.xml
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\TSOEmu True Part 2.pdb
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Part 2\TSOEmu True Part 2\obj\x86\Debug\TSOEmu_True_Part_2.Form2.resources
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\obj\x86\Debug\TSOEmu_True_Part_2.Form1.resources
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\obj\x86\Debug\TSOEmu_True_Part_2.Resources.resources
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\obj\x86\Debug\TSOEmu_True_Part_2.Form2.resources
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\bin\Debug\TSOClient.exe
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\bin\Debug\TSOClient.pdb
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\bin\Debug\TSOClient.xml
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\obj\x86\Debug\TSOClient.exe
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\obj\x86\Debug\TSOClient.xml
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\obj\x86\Debug\TSOClient.pdb
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\obj\x86\Debug\TSOEmu_True_Part_2.Form3.resources
+C:\Users\ian2003.BOWMAN2\Documents\Visual Studio 2010\Projects\TSOEmu True Client\TSOEmu True Part 2\obj\x86\Debug\TSOEmu True Part 2.vbproj.GenerateResource.Cache
